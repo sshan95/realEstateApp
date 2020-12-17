@@ -147,5 +147,5 @@ MESSAGE_TAGS = {
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'realsamuelhan95@gmail.com'
-EMAIL_HOST_PASSWORD = 'Thesword9%'
+EMAIL_HOST_PASSWORD = 'email'
 EMAIL_USE_TLS=True
